@@ -1,8 +1,9 @@
 const webpack = require('webpack');
-//入口配置
+//入口配置 ssdsd
 var entry = {
     index: __dirname + "/app/page/index.js",
     list: __dirname + "/app/page/list.js",
+    
 
 }
 //页面配置
